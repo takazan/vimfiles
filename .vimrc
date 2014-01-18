@@ -9,7 +9,7 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-haml'
-Bundle 'tobiassvn/vim-gemfile'
+""Bundle 'tobiassvn/vim-gemfile'
 
 filetype plugin indent on
 
